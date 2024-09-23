@@ -1,0 +1,9 @@
+name = "Template Selector App"
+description = "This is a template for a selector app. It presents a set of products to the user and allows them to select one."
+library = "panel"
+python = "3.12"
+app_file = "app.py"
+requirements_file = "requirements.txt"
+port = 80
+cover_image = "app_cover.jpg"
+exclude = ["*venv", "venv*", ".git", ".env"]
