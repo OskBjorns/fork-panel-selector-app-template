@@ -176,7 +176,7 @@ class SelectorApp:
 app_instance = SelectorApp()
 
 app = pn.template.BootstrapTemplate(
-    title="Template Selector App",
+    title="Template Selector App by Ósk",
     main=[app_instance.layout],
 )
 
